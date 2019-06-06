@@ -1,9 +1,11 @@
+![image](./ed-badge.png)
+=
 # SFXPlayer
 A Swift 5 Class/supporting class that allows for the playback of Do-Ra-Mi etc. Initially for use with Bose AR heading angle.
 
 ## Example Use
 
-```
+```swift
 sfxPlayer = SFXPlayer()
         
 // Create a player that allows for rapid same note playing via it's init.
